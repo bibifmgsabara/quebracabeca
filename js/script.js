@@ -105,7 +105,7 @@ function openGameDetails(gameId) {
     const pageMap = {
         'quixo': 'quixo.html',
         'kendama': 'kendama.html',
-        'solte-a-argola': 'solte-a-argola.html',
+        'argola-prisioneira': 'argola-prisioneira.html',
         'tetris-3d': 'tetris-3d.html',
         'senhoritas-chinesas': 'senhoritas-chinesas.html',
         'travas-do-herois': 'travas-do-herois.html',
